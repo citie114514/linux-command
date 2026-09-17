@@ -101,7 +101,7 @@ function sanitizeCommandName(value) {
         contributors: svgStr,
       }
     );
-    
+
     await Promise.all(jsonData.data.map(async (item, idx) => {
       item.command_length = jsonData.data.length;
       await createTmpToHTML(
@@ -111,6 +111,52 @@ function sanitizeCommandName(value) {
         path.resolve(process.cwd(), 'command'),
       );
     }));
+
+    // ---- Generate sitemaps + robots.txt ------------------------------------
+    function xmlEscape(value) {
+      return String(value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+    const sitemapHosts = [
+      { file: 'sitemap.xml', host: 'https://linux.citie.dpdns.org' },
+      { file: 'sitemap-linuxc.xml', host: 'https://linuxc.dpdns.org' },
+    ];
+    const basePaths = ['/index.html', '/list.html', '/hot.html', '/contributors.html'];
+    for (const { file, host } of sitemapHosts) {
+      const urls = [];
+      urls.push({ loc: `${host}/`, freq: 'daily', prio: '1.0' });
+      for (const p of basePaths) {
+        urls.push({ loc: `${host}${p}`, freq: 'weekly', prio: '0.8' });
+      }
+      for (const item of jsonData.data) {
+        urls.push({ loc: `${host}/c/${item.n}.html`, freq: 'monthly', prio: '0.6' });
+      }
+      const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url>
+    <loc>${xmlEscape(u.loc)}</loc>
+    <changefreq>${u.freq}</changefreq>
+    <priority>${u.prio}</priority>
+  </url>`).join('\n')}
+</urlset>
+`;
+      await FS.outputFile(path.resolve(deployDir, file), xml);
+      console.log(`  ${'→'.green} ${file} (${urls.length} urls)`);
+    }
+
+    await FS.outputFile(
+      path.resolve(deployDir, 'robots.txt'),
+      `User-agent: *
+Allow: /
+
+Sitemap: https://linux.citie.dpdns.org/sitemap.xml
+Sitemap: https://linuxc.dpdns.org/sitemap-linuxc.xml
+`
+    );
+    console.log(`  ${'→'.green} robots.txt`);
 
   } catch (err) {
     console.log(`\n ERROR :> ${err}\n`)
