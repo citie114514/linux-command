@@ -486,36 +486,36 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/zfb132" title="Fubin Zhang"><img src="https://avatars.githubusercontent.com/u/18099238?v=4" width="42;" alt="Fubin Zhang"/></a>
 <a href="https://github.com/pluveto" title="Zijing Zhang"><img src="https://avatars.githubusercontent.com/u/50045289?v=4" width="42;" alt="Zijing Zhang"/></a>
 <a href="https://github.com/yibajianghudao" title="JiangHuDao"><img src="https://avatars.githubusercontent.com/u/111487502?v=4" width="42;" alt="JiangHuDao"/></a>
-<a href="https://github.com/dulltackle" title="dulltackle"><img src="https://avatars.githubusercontent.com/u/45963660?v=4" width="42;" alt="dulltackle"/></a>
 <a href="https://github.com/Ernest-su" title="ernest"><img src="https://avatars.githubusercontent.com/u/5917446?v=4" width="42;" alt="ernest"/></a>
+<a href="https://github.com/dulltackle" title="dulltackle"><img src="https://avatars.githubusercontent.com/u/45963660?v=4" width="42;" alt="dulltackle"/></a>
 <a href="https://github.com/Makonike" title="谈笑风生间"><img src="https://avatars.githubusercontent.com/u/75628309?v=4" width="42;" alt="谈笑风生间"/></a>
+<a href="https://github.com/citie114514" title="被win11吃掉的磁贴"><img src="https://avatars.githubusercontent.com/u/155241916?v=4" width="42;" alt="被win11吃掉的磁贴"/></a>
 <a href="https://github.com/zyy2477" title="zyy2477"><img src="https://avatars.githubusercontent.com/u/23225911?v=4" width="42;" alt="zyy2477"/></a>
 <a href="https://github.com/rgshare" title="rgshare"><img src="https://avatars.githubusercontent.com/u/3303320?v=4" width="42;" alt="rgshare"/></a>
-<a href="https://github.com/james-wangx" title="James Wang"><img src="https://avatars.githubusercontent.com/u/62491424?v=4" width="42;" alt="James Wang"/></a>
-<a href="https://github.com/Jeremy2214" title="Jeremy2214"><img src="https://avatars.githubusercontent.com/u/97098763?v=4" width="42;" alt="Jeremy2214"/></a>
 <a href="https://github.com/MioMuse" title="MioMuse"><img src="https://avatars.githubusercontent.com/u/41938676?v=4" width="42;" alt="MioMuse"/></a>
+<a href="https://github.com/Jeremy2214" title="Jeremy2214"><img src="https://avatars.githubusercontent.com/u/97098763?v=4" width="42;" alt="Jeremy2214"/></a>
 <a href="https://github.com/SteveLauC" title="SteveLauC"><img src="https://avatars.githubusercontent.com/u/96880612?v=4" width="42;" alt="SteveLauC"/></a>
+<a href="https://github.com/james-wangx" title="James Wang"><img src="https://avatars.githubusercontent.com/u/62491424?v=4" width="42;" alt="James Wang"/></a>
 <a href="https://github.com/Xrtero" title="Xrtero"><img src="https://avatars.githubusercontent.com/u/55886907?v=4" width="42;" alt="Xrtero"/></a>
-<a href="https://github.com/loverainye" title="loverainye"><img src="https://avatars.githubusercontent.com/u/2232094?v=4" width="42;" alt="loverainye"/></a>
-<a href="https://github.com/lavaicer" title="lavaicer"><img src="https://avatars.githubusercontent.com/u/52038323?v=4" width="42;" alt="lavaicer"/></a>
-<a href="https://github.com/duzhuoshanwai" title="Junxiang Shao"><img src="https://avatars.githubusercontent.com/u/65448395?v=4" width="42;" alt="Junxiang Shao"/></a>
 <a href="https://github.com/yeungchie" title="YEUNGCHIE"><img src="https://avatars.githubusercontent.com/u/30793662?v=4" width="42;" alt="YEUNGCHIE"/></a>
-<a href="https://github.com/gggwvg" title="gggwvg"><img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/></a>
-<a href="https://github.com/gong-dx" title="gong-dx"><img src="https://avatars.githubusercontent.com/u/294996758?v=4" width="42;" alt="gong-dx"/></a>
-<a href="https://github.com/jcdj666" title="jcdj666"><img src="https://avatars.githubusercontent.com/u/38837009?v=4" width="42;" alt="jcdj666"/></a>
-<a href="https://github.com/Wvvatt" title="VVatt"><img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="VVatt"/></a>
-<a href="https://github.com/weironz" title="will"><img src="https://avatars.githubusercontent.com/u/33590311?v=4" width="42;" alt="will"/></a>
-<a href="https://github.com/xhal" title="H Liu"><img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="H Liu"/></a>
-<a href="https://github.com/Jeffery186" title="Shell"><img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/></a>
-<a href="https://github.com/sundakai" title="永恒"><img src="https://avatars.githubusercontent.com/u/21995250?v=4" width="42;" alt="永恒"/></a>
+<a href="https://github.com/duzhuoshanwai" title="Junxiang Shao"><img src="https://avatars.githubusercontent.com/u/65448395?v=4" width="42;" alt="Junxiang Shao"/></a>
+<a href="https://github.com/lavaicer" title="lavaicer"><img src="https://avatars.githubusercontent.com/u/52038323?v=4" width="42;" alt="lavaicer"/></a>
+<a href="https://github.com/loverainye" title="loverainye"><img src="https://avatars.githubusercontent.com/u/2232094?v=4" width="42;" alt="loverainye"/></a>
+<a href="https://github.com/Evilrabbit520" title="Wang Yujia"><img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/></a>
 <a href="https://github.com/Qliangw" title="Qliangw"><img src="https://avatars.githubusercontent.com/u/22791711?v=4" width="42;" alt="Qliangw"/></a>
 <a href="https://github.com/maboloshi" title="沙漠之子"><img src="https://avatars.githubusercontent.com/u/7850715?v=4" width="42;" alt="沙漠之子"/></a>
-<a href="https://github.com/citie114514" title="被win11吃掉的磁贴"><img src="https://avatars.githubusercontent.com/u/155241916?v=4" width="42;" alt="被win11吃掉的磁贴"/></a>
+<a href="https://github.com/sundakai" title="永恒"><img src="https://avatars.githubusercontent.com/u/21995250?v=4" width="42;" alt="永恒"/></a>
 <a href="https://github.com/alfchao" title="alfred"><img src="https://avatars.githubusercontent.com/u/49786895?v=4" width="42;" alt="alfred"/></a>
-<a href="https://github.com/Evilrabbit520" title="Wang Yujia"><img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/></a>
+<a href="https://github.com/Jeffery186" title="Shell"><img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/></a>
+<a href="https://github.com/xhal" title="H Liu"><img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="H Liu"/></a>
+<a href="https://github.com/weironz" title="will"><img src="https://avatars.githubusercontent.com/u/33590311?v=4" width="42;" alt="will"/></a>
+<a href="https://github.com/TenNvv" title="TeNN"><img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="TeNN"/></a>
+<a href="https://github.com/jcdj666" title="jcdj666"><img src="https://avatars.githubusercontent.com/u/38837009?v=4" width="42;" alt="jcdj666"/></a>
+<a href="https://github.com/gong-dx" title="gong-dx"><img src="https://avatars.githubusercontent.com/u/294996758?v=4" width="42;" alt="gong-dx"/></a>
+<a href="https://github.com/gggwvg" title="gggwvg"><img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/></a>
 <a href="https://github.com/BingCoke" title="BingCoke"><img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/></a>
-<a href="https://github.com/einverne" title="Ein Verne"><img src="https://avatars.githubusercontent.com/u/1962738?v=4" width="42;" alt="Ein Verne"/></a>
 <a href="https://github.com/Abrillant-Lee" title="Abrillant Lee"><img src="https://avatars.githubusercontent.com/u/129536239?v=4" width="42;" alt="Abrillant Lee"/></a>
+<a href="https://github.com/einverne" title="Ein Verne"><img src="https://avatars.githubusercontent.com/u/1962738?v=4" width="42;" alt="Ein Verne"/></a>
 <a href="https://github.com/FunKeen" title="FunKeen"><img src="https://avatars.githubusercontent.com/u/112614943?v=4" width="42;" alt="FunKeen"/></a>
 <a href="https://github.com/li7355608" title="Skuld"><img src="https://avatars.githubusercontent.com/u/68886053?v=4" width="42;" alt="Skuld"/></a>
 <a href="https://github.com/jin2005-issues" title="Jinzhou Huang"><img src="https://avatars.githubusercontent.com/u/201201915?v=4" width="42;" alt="Jinzhou Huang"/></a>
@@ -612,7 +612,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/Marnm" title="Marnm"><img src="https://avatars.githubusercontent.com/u/13164237?v=4" width="42;" alt="Marnm"/></a>
 <a href="https://github.com/MinsonLee" title="MinsonLee"><img src="https://avatars.githubusercontent.com/u/22138919?v=4" width="42;" alt="MinsonLee"/></a>
 <a href="https://github.com/loprx" title="0x_000"><img src="https://avatars.githubusercontent.com/u/32635468?v=4" width="42;" alt="0x_000"/></a>
-<a href="https://github.com/apnpc" title="AlenPann"><img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="AlenPann"/></a>
+<a href="https://github.com/apnpc" title="Alen Pann"><img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="Alen Pann"/></a>
 <a href="https://github.com/Azroys" title="azroy"><img src="https://avatars.githubusercontent.com/u/73465351?v=4" width="42;" alt="azroy"/></a>
 <a href="https://github.com/cy920820" title="Cui Yang"><img src="https://avatars.githubusercontent.com/u/21211512?v=4" width="42;" alt="Cui Yang"/></a>
 <a href="https://github.com/DYH1319" title="DYH1319"><img src="https://avatars.githubusercontent.com/u/50073268?v=4" width="42;" alt="DYH1319"/></a>
@@ -642,7 +642,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/bellpk" title="bell"><img src="https://avatars.githubusercontent.com/u/12622129?v=4" width="42;" alt="bell"/></a>
 <a href="https://github.com/bestlaw66" title="bestlaw66"><img src="https://avatars.githubusercontent.com/u/94432849?v=4" width="42;" alt="bestlaw66"/></a>
 <a href="https://github.com/brinkqiang" title="brinkqiang"><img src="https://avatars.githubusercontent.com/u/10229072?v=4" width="42;" alt="brinkqiang"/></a>
-<a href="https://github.com/c2ch" title="c2ch"><img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="c2ch"/></a>
+<a href="https://github.com/c2ch" title="cdone"><img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="cdone"/></a>
 <a href="https://github.com/chaofanx" title="chaofan"><img src="https://avatars.githubusercontent.com/u/60053994?v=4" width="42;" alt="chaofan"/></a>
 <a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
 <a href="https://github.com/pplmx" title="Mystvio"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystvio"/></a>
