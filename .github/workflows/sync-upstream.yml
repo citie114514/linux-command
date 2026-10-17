@@ -22,12 +22,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Merge upstream jaywcjlove/linux-command
+      - name: Sync with upstream jaywcjlove/linux-command
         run: |
           set -euo pipefail
 
-          # 任何 merge/rebase 都要创建提交对象，runner 默认没有任何身份，
-          # 缺 user.name/user.email 会直接 fatal: empty ident name (exit 128)。
+          # merge/rebase 都要创建提交对象；runner 默认没有身份，
+          # 缺 user.name/user.email 会 fatal: empty ident name (exit 128)。
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -38,12 +38,29 @@ jobs:
           git fetch --no-tags upstream master
 
           if git merge-base --is-ancestor upstream/master HEAD; then
-            echo "已经包含 upstream/master，无需同步。"
+            echo "已包含 upstream/master，无需同步。"
           else
-            # 用 merge 而不是 rebase：本 fork 有自己的提交（workflow、sitemap 等），
-            # rebase 会重写本地提交哈希导致 push 非快进而失败；merge 永远可快进推送。
+            # 用 merge 而不是 rebase：本 fork 有自己的提交（workflow / sitemap 等），
+            # rebase 会重写本地提交哈希，导致随后 push 非快进被拒。
             git merge --no-edit upstream/master
           fi
 
       - name: Push
-        run: git push origin master
+        run: |
+          set -euo pipefail
+
+          # ci.yml 会在 push 后由机器人追加 doc 提交，origin 可能在本次运行期间前进，
+          # 所以推送前先整合 origin，并允许重试。
+          for i in 1 2 3; do
+            git fetch --no-tags origin master
+            git merge --no-edit FETCH_HEAD
+            if git push origin HEAD:master; then
+              echo "已同步到 origin/master"
+              exit 0
+            fi
+            echo "push 被拒（origin 又前进了），第 $i 次重试…"
+            sleep $((i * 5))
+          done
+
+          echo "重试 3 次仍无法推送" >&2
+          exit 1
