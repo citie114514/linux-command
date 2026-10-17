@@ -1,18 +1,49 @@
 name: Sync Upstream
+
 on:
   schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - run: |
-          git remote add upstream https://github.com/jaywcjlove/linux-command.git
-          git fetch upstream master
-          git rebase upstream/master
-      - run: git push origin master
+
+      - name: Merge upstream jaywcjlove/linux-command
+        run: |
+          set -euo pipefail
+
+          # 任何 merge/rebase 都要创建提交对象，runner 默认没有任何身份，
+          # 缺 user.name/user.email 会直接 fatal: empty ident name (exit 128)。
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git remote add upstream https://github.com/jaywcjlove/linux-command.git 2>/dev/null \
+            || git remote set-url upstream https://github.com/jaywcjlove/linux-command.git
+
+          # 上游 tag 很多，只取 master
+          git fetch --no-tags upstream master
+
+          if git merge-base --is-ancestor upstream/master HEAD; then
+            echo "已经包含 upstream/master，无需同步。"
+          else
+            # 用 merge 而不是 rebase：本 fork 有自己的提交（workflow、sitemap 等），
+            # rebase 会重写本地提交哈希导致 push 非快进而失败；merge 永远可快进推送。
+            git merge --no-edit upstream/master
+          fi
+
+      - name: Push
+        run: git push origin master
