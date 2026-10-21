@@ -3,6 +3,15 @@
   <br>
   <br>
 
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
+  </a>
+  <br>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - An AI agent that works across your Mac</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">It sees your screen, works in your apps, and gets things done.</a>
+  <br><br>
+
+
   <a href="https://getapps.cafe/">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
   </a>
@@ -399,6 +408,7 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 
 - [Linux中国](https://linux.cn/) - 各种资讯、文章、技术
 - [LabEx](https://labex.io/) - 免费提供了Linux在线环境，不用在自己机子上装系统也可以学习Linux，超方便实用。
+- [WebTerm Learn](https://learn.webterm.app/en/courses) - 在浏览器里的模拟终端中边练习边学 Linux 命令行，无需安装（英文/日文界面）。课程全部免费，第一课无需注册。
 - [鸟哥的linux私房菜](http://linux.vbird.org/) - 非常适合Linux入门初学者看的教程。
 - [Linux公社](http://www.linuxidc.com/) - Linux相关的新闻、教程、主题、壁纸都有。
 - [Linux Today](http://www.linuxde.net) - Linux新闻资讯发布，Linux职业技术学习！。
@@ -495,17 +505,16 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/MioMuse" title="MioMuse"><img src="https://avatars.githubusercontent.com/u/41938676?v=4" width="42;" alt="MioMuse"/></a>
 <a href="https://github.com/Jeremy2214" title="Jeremy2214"><img src="https://avatars.githubusercontent.com/u/97098763?v=4" width="42;" alt="Jeremy2214"/></a>
 <a href="https://github.com/SteveLauC" title="SteveLauC"><img src="https://avatars.githubusercontent.com/u/96880612?v=4" width="42;" alt="SteveLauC"/></a>
-<a href="https://github.com/james-wangx" title="James Wang"><img src="https://avatars.githubusercontent.com/u/62491424?v=4" width="42;" alt="James Wang"/></a>
 <a href="https://github.com/Xrtero" title="Xrtero"><img src="https://avatars.githubusercontent.com/u/55886907?v=4" width="42;" alt="Xrtero"/></a>
+<a href="https://github.com/james-wangx" title="James Wang"><img src="https://avatars.githubusercontent.com/u/62491424?v=4" width="42;" alt="James Wang"/></a>
 <a href="https://github.com/yeungchie" title="YEUNGCHIE"><img src="https://avatars.githubusercontent.com/u/30793662?v=4" width="42;" alt="YEUNGCHIE"/></a>
 <a href="https://github.com/duzhuoshanwai" title="Junxiang Shao"><img src="https://avatars.githubusercontent.com/u/65448395?v=4" width="42;" alt="Junxiang Shao"/></a>
 <a href="https://github.com/lavaicer" title="lavaicer"><img src="https://avatars.githubusercontent.com/u/52038323?v=4" width="42;" alt="lavaicer"/></a>
 <a href="https://github.com/loverainye" title="loverainye"><img src="https://avatars.githubusercontent.com/u/2232094?v=4" width="42;" alt="loverainye"/></a>
-<a href="https://github.com/Evilrabbit520" title="Wang Yujia"><img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/></a>
 <a href="https://github.com/Qliangw" title="Qliangw"><img src="https://avatars.githubusercontent.com/u/22791711?v=4" width="42;" alt="Qliangw"/></a>
 <a href="https://github.com/maboloshi" title="沙漠之子"><img src="https://avatars.githubusercontent.com/u/7850715?v=4" width="42;" alt="沙漠之子"/></a>
 <a href="https://github.com/sundakai" title="永恒"><img src="https://avatars.githubusercontent.com/u/21995250?v=4" width="42;" alt="永恒"/></a>
-<a href="https://github.com/alfchao" title="alfred"><img src="https://avatars.githubusercontent.com/u/49786895?v=4" width="42;" alt="alfred"/></a>
+<a href="https://github.com/Evilrabbit520" title="Wang Yujia"><img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Yujia"/></a>
 <a href="https://github.com/Jeffery186" title="Shell"><img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/></a>
 <a href="https://github.com/xhal" title="H Liu"><img src="https://avatars.githubusercontent.com/u/34055638?v=4" width="42;" alt="H Liu"/></a>
 <a href="https://github.com/weironz" title="will"><img src="https://avatars.githubusercontent.com/u/33590311?v=4" width="42;" alt="will"/></a>
@@ -513,8 +522,8 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/jcdj666" title="jcdj666"><img src="https://avatars.githubusercontent.com/u/38837009?v=4" width="42;" alt="jcdj666"/></a>
 <a href="https://github.com/gong-dx" title="gong-dx"><img src="https://avatars.githubusercontent.com/u/294996758?v=4" width="42;" alt="gong-dx"/></a>
 <a href="https://github.com/gggwvg" title="gggwvg"><img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/></a>
-<a href="https://github.com/BingCoke" title="BingCoke"><img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/></a>
 <a href="https://github.com/Abrillant-Lee" title="Abrillant Lee"><img src="https://avatars.githubusercontent.com/u/129536239?v=4" width="42;" alt="Abrillant Lee"/></a>
+<a href="https://github.com/BingCoke" title="BingCoke"><img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/></a>
 <a href="https://github.com/einverne" title="Ein Verne"><img src="https://avatars.githubusercontent.com/u/1962738?v=4" width="42;" alt="Ein Verne"/></a>
 <a href="https://github.com/FunKeen" title="FunKeen"><img src="https://avatars.githubusercontent.com/u/112614943?v=4" width="42;" alt="FunKeen"/></a>
 <a href="https://github.com/li7355608" title="Skuld"><img src="https://avatars.githubusercontent.com/u/68886053?v=4" width="42;" alt="Skuld"/></a>
@@ -527,7 +536,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/YanhiWang" title="YH"><img src="https://avatars.githubusercontent.com/u/114390595?v=4" width="42;" alt="YH"/></a>
 <a href="https://github.com/alterem" title="Alterem"><img src="https://avatars.githubusercontent.com/u/16953053?v=4" width="42;" alt="Alterem"/></a>
 <a href="https://github.com/Dazhuangw" title="Dazhuangw"><img src="https://avatars.githubusercontent.com/u/74780009?v=4" width="42;" alt="Dazhuangw"/></a>
-<a href="https://github.com/jack-zheng" title="Jack"><img src="https://avatars.githubusercontent.com/u/5470278?v=4" width="42;" alt="Jack"/></a>
+<a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
 <a href="https://github.com/hululu1068" title="hululu1068"><img src="https://avatars.githubusercontent.com/u/68652362?v=4" width="42;" alt="hululu1068"/></a>
 <a href="https://github.com/llmons" title="illmons"><img src="https://avatars.githubusercontent.com/u/143727979?v=4" width="42;" alt="illmons"/></a>
 <a href="https://github.com/Coder-ZJQ" title="jqz3.tech"><img src="https://avatars.githubusercontent.com/u/15013685?v=4" width="42;" alt="jqz3.tech"/></a>
@@ -542,7 +551,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/lonlng" title="cole"><img src="https://avatars.githubusercontent.com/u/46036684?v=4" width="42;" alt="cole"/></a>
 <a href="https://github.com/dufu-byte" title="dufu"><img src="https://avatars.githubusercontent.com/u/29202248?v=4" width="42;" alt="dufu"/></a>
 <a href="https://github.com/miniwater" title="miniwater"><img src="https://avatars.githubusercontent.com/u/14000053?v=4" width="42;" alt="miniwater"/></a>
-<a href="https://github.com/zyimm" title="zyimm"><img src="https://avatars.githubusercontent.com/u/13979159?v=4" width="42;" alt="zyimm"/></a>
+<a href="https://github.com/z-anshun" title="noodles2hg"><img src="https://avatars.githubusercontent.com/u/57032282?v=4" width="42;" alt="noodles2hg"/></a>
 <a href="https://github.com/cxalc" title="cxalc"><img src="https://avatars.githubusercontent.com/u/79086256?v=4" width="42;" alt="cxalc"/></a>
 <a href="https://github.com/daydaygo" title="dayday"><img src="https://avatars.githubusercontent.com/u/3986303?v=4" width="42;" alt="dayday"/></a>
 <a href="https://github.com/denymz" title="Deny"><img src="https://avatars.githubusercontent.com/u/23657601?v=4" width="42;" alt="Deny"/></a>
@@ -560,6 +569,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/gcluffy" title="gcluffy"><img src="https://avatars.githubusercontent.com/u/39456622?v=4" width="42;" alt="gcluffy"/></a>
 <a href="https://github.com/hotdogc1017" title="hotdogc1017"><img src="https://avatars.githubusercontent.com/u/126151508?v=4" width="42;" alt="hotdogc1017"/></a>
 <a href="https://github.com/huangyoo" title="三士"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="三士"/></a>
+<a href="https://github.com/oliver-zch" title="oliver"><img src="https://avatars.githubusercontent.com/u/49701721?v=4" width="42;" alt="oliver"/></a>
 <a href="https://github.com/lxp731" title="七朔"><img src="https://avatars.githubusercontent.com/u/95358476?v=4" width="42;" alt="七朔"/></a>
 <a href="https://github.com/gclm" title="孤城落寞"><img src="https://avatars.githubusercontent.com/u/27618687?v=4" width="42;" alt="孤城落寞"/></a>
 <a href="https://github.com/kindevil" title="尘埃"><img src="https://avatars.githubusercontent.com/u/846488?v=4" width="42;" alt="尘埃"/></a>
@@ -577,8 +587,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/fmalee" title="远方"><img src="https://avatars.githubusercontent.com/u/3209058?v=4" width="42;" alt="远方"/></a>
 <a href="https://github.com/bycszzz" title="bycs"><img src="https://avatars.githubusercontent.com/u/101485931?v=4" width="42;" alt="bycs"/></a>
 <a href="https://github.com/HDsky" title="Yidan Wang"><img src="https://avatars.githubusercontent.com/u/17249963?v=4" width="42;" alt="Yidan Wang"/></a>
-<a href="https://github.com/z-anshun" title="noodles2hg"><img src="https://avatars.githubusercontent.com/u/57032282?v=4" width="42;" alt="noodles2hg"/></a>
-<a href="https://github.com/oliver-zch" title="oliver"><img src="https://avatars.githubusercontent.com/u/49701721?v=4" width="42;" alt="oliver"/></a>
 <a href="https://github.com/rexlin600" title="rexlin600"><img src="https://avatars.githubusercontent.com/u/23032549?v=4" width="42;" alt="rexlin600"/></a>
 <a href="https://github.com/guowenju" title="gwj"><img src="https://avatars.githubusercontent.com/u/77674552?v=4" width="42;" alt="gwj"/></a>
 <a href="https://github.com/shhch" title="shc"><img src="https://avatars.githubusercontent.com/u/46923522?v=4" width="42;" alt="shc"/></a>
@@ -595,6 +603,8 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/xin99xin" title="zodiac"><img src="https://avatars.githubusercontent.com/u/10813088?v=4" width="42;" alt="zodiac"/></a>
 <a href="https://github.com/fireairforce" title="zoomdong"><img src="https://avatars.githubusercontent.com/u/32598811?v=4" width="42;" alt="zoomdong"/></a>
 <a href="https://github.com/zuixin369" title="zuixin369"><img src="https://avatars.githubusercontent.com/u/54224677?v=4" width="42;" alt="zuixin369"/></a>
+<a href="https://github.com/zyimm" title="zyimm"><img src="https://avatars.githubusercontent.com/u/13979159?v=4" width="42;" alt="zyimm"/></a>
+<a href="https://github.com/jack-zheng" title="Jack"><img src="https://avatars.githubusercontent.com/u/5470278?v=4" width="42;" alt="Jack"/></a>
 <a href="https://github.com/JackABlack" title="Jack.A.Black"><img src="https://avatars.githubusercontent.com/u/33801210?v=4" width="42;" alt="Jack.A.Black"/></a>
 <a href="https://github.com/JellyObjeck" title="Jelly"><img src="https://avatars.githubusercontent.com/u/141554249?v=4" width="42;" alt="Jelly"/></a>
 <a href="https://github.com/Nexchard" title="Nexchard"><img src="https://avatars.githubusercontent.com/u/61868296?v=4" width="42;" alt="Nexchard"/></a>
@@ -635,6 +645,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/liuyunbin" title="Yunbin Liu"><img src="https://avatars.githubusercontent.com/u/9609295?v=4" width="42;" alt="Yunbin Liu"/></a>
 <a href="https://github.com/0Knot" title="0Knot (0KN)"><img src="https://avatars.githubusercontent.com/u/48816852?v=4" width="42;" alt="0Knot (0KN)"/></a>
 <a href="https://github.com/Zlanghu" title="Zlanghu"><img src="https://avatars.githubusercontent.com/u/88917899?v=4" width="42;" alt="Zlanghu"/></a>
+<a href="https://github.com/alfchao" title="alfred"><img src="https://avatars.githubusercontent.com/u/49786895?v=4" width="42;" alt="alfred"/></a>
 <a href="https://github.com/aluopy" title="One Person’s Revelry"><img src="https://avatars.githubusercontent.com/u/69625113?v=4" width="42;" alt="One Person’s Revelry"/></a>
 <a href="https://github.com/amit794" title="amit794"><img src="https://avatars.githubusercontent.com/u/43886572?v=4" width="42;" alt="amit794"/></a>
 <a href="https://github.com/asunrong" title="Ashine"><img src="https://avatars.githubusercontent.com/u/103101986?v=4" width="42;" alt="Ashine"/></a>
@@ -644,7 +655,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/brinkqiang" title="brinkqiang"><img src="https://avatars.githubusercontent.com/u/10229072?v=4" width="42;" alt="brinkqiang"/></a>
 <a href="https://github.com/c2ch" title="cdone"><img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="cdone"/></a>
 <a href="https://github.com/chaofanx" title="chaofan"><img src="https://avatars.githubusercontent.com/u/60053994?v=4" width="42;" alt="chaofan"/></a>
-<a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
 <a href="https://github.com/pplmx" title="Mystvio"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystvio"/></a>
 <a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a>
 <a href="https://github.com/rayyee" title="Ray Yee"><img src="https://avatars.githubusercontent.com/u/685149?v=4" width="42;" alt="Ray Yee"/></a>
